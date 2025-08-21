@@ -17,8 +17,8 @@ This is a simple React + Vite project that detects missing video frames from a l
 
 1. Clone this repo or create the project using Vite:
    ```bash
-   npm create vite@latest missing-frames-app
-   cd missing-frames-app
+   npm create vite@latest HurryApp-Hackathon-Task
+   cd HurryApp-Hackathon-Task
    npm install
    ```
 
