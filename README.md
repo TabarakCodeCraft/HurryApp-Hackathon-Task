@@ -32,7 +32,7 @@ This is a simple React + Vite project that detects missing video frames from a l
 
 ## 📂 Project Structure
 
-- missing-frames-app/
+HurryApp Hackathon Task
   ├─ src/
   │ ├─ App.jsx # Main application logic + UI
   │ └─ main.jsx # React entry point
@@ -53,3 +53,6 @@ This is a simple React + Vite project that detects missing video frames from a l
 - All missing frame ranges.
 - The longest missing range.
 - Total number of missing frames.
+
+## Test output in this live link 
+- https://tabarak-ali-hackathon.netlify.app/
